@@ -89,6 +89,7 @@ target_sources(
           "src/OutputEllipseComponent.cpp"
           "src/OutputLineComponent.cpp"
           "src/OutputLinearBarGraphComponent.cpp"
+          "src/OutputArchedBarGraphComponent.cpp"
           "src/OutputPolygonComponent.cpp"
           "src/InputStringComponent.cpp"
           "src/NumberComponent.cpp"

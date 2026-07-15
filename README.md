@@ -52,6 +52,7 @@ Supported features:
 - Output line
 - Buttons
 - Output linear bar graph (except target line)
+- Output arched bar graph
 - Output meter (except tick marks and target line)
 - Picture graphics (with and without run-length encoding)
 - Output Strings (partial - font clipping is not compliant)
@@ -70,7 +71,6 @@ Unimplemented features (for now - we are always adding new features)
 - Aux N/O (Tolerated in the object pool though)
 - Animations
 - Output Lists
-- Output arched bar graph (Tolerated in the object pool though)
 - Graphics contexts
 - Pointing events
 - TAN
